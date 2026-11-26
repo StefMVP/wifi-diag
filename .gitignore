@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.worktrees/
+reports/
+*.json
+!fixtures/*.json
